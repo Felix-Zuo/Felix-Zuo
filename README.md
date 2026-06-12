@@ -1,8 +1,8 @@
 # Felix Zuo | Smart Manufacturing & Industrial AI Applications
 
-I work at the intersection of manufacturing operations, factory data, and practical AI-assisted workflow automation. My background is in mechanical design, manufacturing and automation, and my current work is connected to overseas manufacturing operations, PMC, material planning, inventory control, WIP tracking, shipment follow-up, and ERP/WMS-style data reconciliation.
+This profile README is the front door for my GitHub portfolio. I work at the intersection of manufacturing operations, factory data, and practical AI-assisted workflow automation.
 
-My focus is not pure AI algorithm research. I build demo-ready tools that translate real factory problems into data models, deterministic calculations, dashboards, production documents, agent tool calls, and reviewable reports.
+My focus is not pure AI algorithm research. I build demo-ready tools that translate factory problems into data models, deterministic calculations, dashboards, production documents, agent tool calls, and reviewable reports.
 
 ## Portfolio Focus
 
@@ -12,7 +12,7 @@ My focus is not pure AI algorithm research. I build demo-ready tools that transl
 | 2 | [Factory Takt Simulator](https://github.com/Felix-Zuo/factory-takt-simulator) | Visual production-line takt sandbox for process routes, buffers, loader-arm transfer rules, bottleneck analysis, and capacity reporting. |
 | 3 | [Factory Production Notice Agent](https://github.com/Felix-Zuo/factory-production-notice-agent) | Converts structured work-order data into Excel production notices, browser previews, release manifests, and automation-ready context. |
 | 4 | [HulunGuard](https://github.com/Felix-Zuo/HulunGuard) | Proof-first reliability guard for long-running AI agent work, focused on evidence, task drift, unresolved failures, and verification. |
-| Supporting | Manufacturing data learning work | Database modeling, API/tool schema, RAG, async jobs, and interview-ready manufacturing data concepts. |
+| Supporting | [Factory Data Pocket Lab](https://github.com/Felix-Zuo/factory-data-pocket-lab) | Offline Android pocket lab for generic manufacturing data modeling, traceability, and operations analysis concepts. |
 
 ## What I Am Building Toward
 
@@ -41,6 +41,8 @@ Python, FastAPI, SQLite, pandas/openpyxl, TypeScript, React, Electron, Vite, loc
 ## Boundary Statement
 
 Public repositories use synthetic or sanitized demo data. They are portfolio prototypes for manufacturing digitalization and industrial AI application work, not claims of full production MES ownership or pure machine-learning research.
+
+Some internal or early-stage demos remain private until all sample data, paths, and screenshots are confirmed safe for public release.
 
 ## Target Directions
 
